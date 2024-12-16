@@ -765,3 +765,5 @@ TERM xterm-color
 TERM xterm-debian
 TERM xterm-kitty
 TERM wezterm
+
+# vi: ft=dircolors
